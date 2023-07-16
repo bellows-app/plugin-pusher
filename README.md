@@ -1,3 +1,3 @@
-# plugin-pusher
+# Bellows Pusher Plugin
 
-[https://bellows.dev](https://bellows.dev)
+[https://bellows.dev/docs/plugins/pusher](https://bellows.dev/docs/plugins/pusher)
